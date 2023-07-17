@@ -137,6 +137,7 @@ font-size: 12px;
 line-height: 14px;
 color: #444444;
 font-family: "Helvetica";
+margin: 23px;
 }
 button{
     float: bottom;
@@ -211,4 +212,14 @@ hr{
     content: "";
     clear: both;
     display: table;
+}
+ footer p{
+    text-align: center;
+}
+.col50{
+    width: 50%;
+    float: left;
+}
+.row{
+    width: 100%;
 }
